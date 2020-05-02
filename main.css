@@ -86,7 +86,7 @@ button{
 
 .sec1{
    border:1px solid black;
-   background:url(../images/IMG_0325.JPG)no-repeat center top;
+   background:url(IMG_0325.JPG)no-repeat center top;
    background-size:cover;
    background-blend-mode: multiply;
    height:400px;
